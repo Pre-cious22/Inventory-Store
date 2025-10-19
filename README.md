@@ -94,7 +94,9 @@ Populate your MongoDB with sample data:
 npm run seed
 
 You should see something like:
+
 MongoDB Connected: cluster0-xxxxx.mongodb.net
+
 ✅ Data seeded successfully!
    - 3 products created
    - 4 suppliers created

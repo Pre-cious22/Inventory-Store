@@ -33,6 +33,7 @@ npm install
 
 <h3>Step 3: Set Up MongoDB Atlas</h3>
 <h2>1. Create a MongoDB Atlas Account<h2/>
+  
 <ul>
   <li>Go to MongoDB Atlas </li>
   <li>Sign up for a free account</li>

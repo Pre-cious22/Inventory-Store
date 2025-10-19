@@ -110,6 +110,7 @@ You should see:
 
 Server running in development mode on port 5000
 MongoDB Connected: cluster0-xxxxx.mongodb.net
+
 ✅ Your API is now running at: http://localhost:5000
 
 

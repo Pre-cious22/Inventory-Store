@@ -1,5 +1,7 @@
 <H1>Inventory/Store Api</H1>
 
+#BASED URL https://inventory-store-snfh.onrender.com
+
 A full RESTful API for store and inventory management built with Node.js, Express, and MongoDB. This API provides complete CRUD operations for managing products, suppliers, and orders, supporting real-world inventory workflows such as stock tracking, order creation, and supplier coordination.
 <hr style="border: 2px solid black;">
 <h1>Features</h1>

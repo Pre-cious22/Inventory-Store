@@ -108,9 +108,9 @@ npm run dev
 
 You should see:
 
-Server running in development mode on port 5000
+Server running in development mode on port 3000
 MongoDB Connected: cluster0-xxxxx.mongodb.net
 
-✅ Your API is now running at: http://localhost:5000
+✅ Your API is now running at: http://localhost:3000
 
 
